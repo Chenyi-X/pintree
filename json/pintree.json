@@ -20,6 +20,13 @@
       },
       {
         "type": "link",
+        "addDate": 1702828410798,
+        "title": "Devv",
+        "icon": "https://logo.clearbit.com/devv.ai",
+        "url": "https://devv.ai/zh"
+      },
+      {
+        "type": "link",
         "addDate": 1664423896848,
         "title": "教学管理系统",
         "icon": "https://logo.clearbit.com/jxfw.gdut.edu.cn",
@@ -34,17 +41,31 @@
       },
       {
         "type": "link",
-        "addDate": 1713433230864,
-        "title": "DeepL",
-        "icon": "https://logo.clearbit.com/www.deepl.com",
-        "url": "https://www.deepl.com/zh/translator"
-      },
-      {
-        "type": "link",
         "addDate": 1728572735123,
         "title": "即刻",
         "icon": "https://logo.clearbit.com/web.okjike.com",
         "url": "https://web.okjike.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1731089527079,
+        "title": "Google 翻译",
+        "icon": "https://logo.clearbit.com/translate.google.com",
+        "url": "https://translate.google.com/?hl=zh-cn&sl=en&tl=zh-CN&op=translate"
+      },
+      {
+        "type": "link",
+        "addDate": 1743067587052,
+        "title": "阿里云控制台首页",
+        "icon": "https://logo.clearbit.com/home.console.aliyun.com",
+        "url": "https://home.console.aliyun.com/home/dashboard/ProductAndService"
+      },
+      {
+        "type": "link",
+        "addDate": 1743147324870,
+        "title": "阿里云百炼",
+        "icon": "https://logo.clearbit.com/bailian.console.aliyun.com",
+        "url": "https://bailian.console.aliyun.com/#/home"
       },
       {
         "type": "folder",
@@ -834,6 +855,20 @@
             "title": "🎉 独立开发者导航站上线啦！ : r/karmaassist",
             "icon": "https://logo.clearbit.com/www.reddit.com",
             "url": "https://www.reddit.com/r/karmaassist/comments/1dk6u5b/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E5%AF%BC%E8%88%AA%E7%AB%99%E4%B8%8A%E7%BA%BF%E5%95%A6/"
+          },
+          {
+            "type": "link",
+            "addDate": 1731314319941,
+            "title": "hi ，DocHub.wiki｜ 好玩系列 - 特立独行的异类 By DemoChen",
+            "icon": "https://logo.clearbit.com/demochen.com",
+            "url": "https://demochen.com/posts/20230801/"
+          },
+          {
+            "type": "link",
+            "addDate": 1735797645199,
+            "title": "个人博客开发之数据库设计 - 程序员三时 - 博客园",
+            "icon": "https://logo.clearbit.com/www.cnblogs.com",
+            "url": "https://www.cnblogs.com/kenx/p/14989205.html"
           }
         ]
       },
@@ -907,13 +942,6 @@
           },
           {
             "type": "link",
-            "addDate": 1702828410798,
-            "title": "Devv",
-            "icon": "https://logo.clearbit.com/devv.ai",
-            "url": "https://devv.ai/zh"
-          },
-          {
-            "type": "link",
             "addDate": 1713269942244,
             "title": "Kimi.ai - 帮你看更大的世界",
             "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
@@ -946,6 +974,13 @@
             "title": "千帆搜索 - 资源超丰富的聚合网盘搜索引擎！",
             "icon": "https://logo.clearbit.com/www.niceso.net",
             "url": "https://www.niceso.net/"
+          },
+          {
+            "type": "link",
+            "addDate": 1742960915340,
+            "title": "搜狗搜索引擎 - 上网从搜狗开始",
+            "icon": "https://logo.clearbit.com/www.sogou.com",
+            "url": "https://www.sogou.com/"
           }
         ]
       },
@@ -1149,6 +1184,13 @@
             "title": "体育 6.14前",
             "icon": "https://logo.clearbit.com/mooc2-ans.gdhkmooc.com",
             "url": "https://mooc2-ans.gdhkmooc.com/mooc2-ans/mycourse/stu?courseid=242750990&clazzid=97681226&cpi=285111456&enc=04b6b85b5ab208c596a43bf771be9851&t=1713930297902&pageHeader=1"
+          },
+          {
+            "type": "link",
+            "addDate": 1732628320243,
+            "title": "学者网-SCHOLAT",
+            "icon": "https://logo.clearbit.com/www.scholat.com",
+            "url": "https://www.scholat.com/"
           }
         ]
       },
@@ -1210,6 +1252,13 @@
                 "title": "Mengke's blog - Mengke's coding journey",
                 "icon": "https://logo.clearbit.com/www.mengke.me",
                 "url": "https://www.mengke.me/"
+              },
+              {
+                "type": "link",
+                "addDate": 1731313363138,
+                "title": "hi ，DocHub.wiki｜ 好玩系列 - 特立独行的异类 By DemoChen",
+                "icon": "https://logo.clearbit.com/demochen.com",
+                "url": "https://demochen.com/posts/20230801/"
               }
             ]
           },
@@ -1451,24 +1500,10 @@
               },
               {
                 "type": "link",
-                "addDate": 1730703998751,
-                "title": "Compare & Test Best AI Chatbots",
-                "icon": "https://logo.clearbit.com/lmarena.ai",
-                "url": "https://lmarena.ai/"
-              },
-              {
-                "type": "link",
                 "addDate": 1730697819194,
                 "title": "Ollama",
                 "icon": "https://logo.clearbit.com/ollama.com",
                 "url": "https://ollama.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1730726319337,
-                "title": "聊天 - Monica",
-                "icon": "https://logo.clearbit.com/monica.im",
-                "url": "https://monica.im/home/chat"
               },
               {
                 "type": "link",
@@ -1490,6 +1525,62 @@
                 "title": "IMYAI智能助手",
                 "icon": "https://logo.clearbit.com/new.imyai.top",
                 "url": "https://new.imyai.top/download"
+              },
+              {
+                "type": "link",
+                "addDate": 1731309581809,
+                "title": "perplexity",
+                "icon": "https://logo.clearbit.com/www.perplexity.ai",
+                "url": "https://www.perplexity.ai/"
+              },
+              {
+                "type": "link",
+                "addDate": 1731336079468,
+                "title": "chatos",
+                "icon": "https://logo.clearbit.com/cat.chatavx.com",
+                "url": "https://cat.chatavx.com/#/home"
+              },
+              {
+                "type": "link",
+                "addDate": 1732457434689,
+                "title": "用户登录 - agicto | 大模型基座",
+                "icon": "https://logo.clearbit.com/agicto.com",
+                "url": "https://agicto.com/login?bindphone=1"
+              },
+              {
+                "type": "link",
+                "addDate": 1732694423993,
+                "title": "智谱清言",
+                "icon": "https://logo.clearbit.com/chatglm.cn",
+                "url": "https://chatglm.cn/main/alltoolsdetail?lang=zh"
+              },
+              {
+                "type": "link",
+                "addDate": 1732694908504,
+                "title": "Le Chat - Mistral AI",
+                "icon": "https://logo.clearbit.com/chat.mistral.ai",
+                "url": "https://chat.mistral.ai/chat"
+              },
+              {
+                "type": "link",
+                "addDate": 1732782509562,
+                "title": "Chatbot Arena (formerly LMSYS): Free AI Chat to Compare & Test Best AI Chatbots",
+                "icon": "https://logo.clearbit.com/lmarena.ai",
+                "url": "https://lmarena.ai/"
+              },
+              {
+                "type": "link",
+                "addDate": 1733407322945,
+                "title": "豆包 - 字节跳动旗下 AI 智能助手",
+                "icon": "https://logo.clearbit.com/www.doubao.com",
+                "url": "https://www.doubao.com/chat/"
+              },
+              {
+                "type": "link",
+                "addDate": 1755698225461,
+                "title": "Chat with Z.ai - Free AI Chatbot powered by GLM-4.5",
+                "icon": "https://logo.clearbit.com/chat.z.ai",
+                "url": "https://chat.z.ai/"
               }
             ]
           },
@@ -1665,8 +1756,57 @@
                 "title": "「SD 零基础入门 11」ControlNet 进阶：打造炫酷的艺术字和二维码 | 眈眈探求",
                 "icon": "https://logo.clearbit.com/exp-blog.com",
                 "url": "https://exp-blog.com/ai/sd-ru-men-11-qrcode-logo/"
+              },
+              {
+                "type": "link",
+                "addDate": 1733407689939,
+                "title": "即梦AI - 即刻造梦",
+                "icon": "https://logo.clearbit.com/jimeng.jianying.com",
+                "url": "https://jimeng.jianying.com/"
               }
             ]
+          },
+          {
+            "type": "link",
+            "addDate": 1743169798045,
+            "title": "公司简介 - 53AI-AI知识库|大模型知识库|大模型训练|智能体开发",
+            "icon": "https://logo.clearbit.com/www.53ai.com",
+            "url": "https://www.53ai.com/about/introduction"
+          },
+          {
+            "type": "link",
+            "addDate": 1743169809500,
+            "title": "WaytoAGI-通往AGI之路，最好的 AI 知识库和工具站",
+            "icon": "https://logo.clearbit.com/www.waytoagi.com",
+            "url": "https://www.waytoagi.com/zh"
+          },
+          {
+            "type": "link",
+            "addDate": 1743666583556,
+            "title": "最佳Instagram爬虫工具 - freeproxyreview - Medium",
+            "icon": "https://logo.clearbit.com/medium.com",
+            "url": "https://medium.com/@tappytara614/%E6%9C%80%E4%BD%B3instagram%E7%88%AC%E8%99%AB%E5%B7%A5%E5%85%B7-333bfdeae0ea"
+          },
+          {
+            "type": "link",
+            "addDate": 1743777480989,
+            "title": "聊天 - Monica",
+            "icon": "https://logo.clearbit.com/monica.im",
+            "url": "https://monica.im/home/chat"
+          },
+          {
+            "type": "link",
+            "addDate": 1745082375908,
+            "title": "在线PING检测-全球小鸡监控平台",
+            "icon": "https://logo.clearbit.com/ip.ping0.cc",
+            "url": "http://ip.ping0.cc/ping"
+          },
+          {
+            "type": "link",
+            "addDate": 1745083916396,
+            "title": "iP地址查询--手机号码查询归属地 | 邮政编码查询 | iP地址归属地查询 | 身份证号码验证在线查询网",
+            "icon": "https://logo.clearbit.com/www.ip138.com",
+            "url": "https://www.ip138.com/iplookup.php?ip=192.74.245.92&action=2"
           }
         ]
       },
@@ -1709,6 +1849,41 @@
             "title": "哥飞出海SEO",
             "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
             "url": "https://mp.weixin.qq.com/s/mtJY6TKCVjZQRmeFkWPAfQ"
+          },
+          {
+            "type": "link",
+            "addDate": 1732962109507,
+            "title": "首页 | 知行小课",
+            "icon": "https://logo.clearbit.com/x.zhixing.co",
+            "url": "https://x.zhixing.co/"
+          },
+          {
+            "type": "link",
+            "addDate": 1733315414828,
+            "title": "Learn to Code — For Free — Coding Courses for Busy People",
+            "icon": "https://logo.clearbit.com/www.freecodecamp.org",
+            "url": "https://www.freecodecamp.org/"
+          },
+          {
+            "type": "link",
+            "addDate": 1733315860207,
+            "title": "Responsive Web Design Certification | freeCodeCamp.org",
+            "icon": "https://logo.clearbit.com/www.freecodecamp.org",
+            "url": "https://www.freecodecamp.org/learn/2022/responsive-web-design/"
+          },
+          {
+            "type": "link",
+            "addDate": 1733486850034,
+            "title": "Learn Next.js | Next.js",
+            "icon": "https://logo.clearbit.com/nextjs.org",
+            "url": "https://nextjs.org/learn/dashboard-app"
+          },
+          {
+            "type": "link",
+            "addDate": 1733672500257,
+            "title": "mockAPI",
+            "icon": "https://logo.clearbit.com/mockapi.io",
+            "url": "https://mockapi.io/"
           }
         ]
       },
@@ -1800,6 +1975,83 @@
             "title": "话题 - 群聊 - Web.Cafe",
             "icon": "https://logo.clearbit.com/web.cafe",
             "url": "https://web.cafe/messages"
+          },
+          {
+            "type": "link",
+            "addDate": 1731312661220,
+            "title": "Similarweb Digital Intelligence: Unlock Your Digital Growth",
+            "icon": "https://logo.clearbit.com/www.similarweb.com",
+            "url": "https://www.similarweb.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1731312728332,
+            "title": "站长工具-百度权重排名查询-站长seo查询 - 爱站网",
+            "icon": "https://logo.clearbit.com/www.aizhan.com",
+            "url": "https://www.aizhan.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1731312963730,
+            "title": "关键词优化难易分析_SEO优化难度分析 - 站长工具",
+            "icon": "https://logo.clearbit.com/tool.chinaz.com",
+            "url": "https://tool.chinaz.com/kwevaluate"
+          },
+          {
+            "type": "link",
+            "addDate": 1731315872746,
+            "title": "主页",
+            "icon": "https://logo.clearbit.com/taobao-seo.com",
+            "url": "https://taobao-seo.com/#/dashboard"
+          },
+          {
+            "type": "link",
+            "addDate": 1731564299379,
+            "title": "Refero — UI/UX Design Inspiration for Your Next Project",
+            "icon": "https://logo.clearbit.com/refero.design",
+            "url": "https://refero.design/"
+          },
+          {
+            "type": "link",
+            "addDate": 1732703292093,
+            "title": "Reuters ",
+            "icon": "https://logo.clearbit.com/www.reuters.com",
+            "url": "https://www.reuters.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1732703391164,
+            "title": "美联社",
+            "icon": "https://logo.clearbit.com/apnews.com",
+            "url": "https://apnews.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1732703449524,
+            "title": "新华网",
+            "icon": "https://logo.clearbit.com/www.news.cn",
+            "url": "http://www.news.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1732703483028,
+            "title": "共同通信社",
+            "icon": "https://logo.clearbit.com/www.kyodo.co.jp",
+            "url": "https://www.kyodo.co.jp/"
+          },
+          {
+            "type": "link",
+            "addDate": 1732703952684,
+            "title": "半岛通讯",
+            "icon": "https://logo.clearbit.com/www.aljazeera.com",
+            "url": "https://www.aljazeera.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1732719104473,
+            "title": "SEO.box : SEO Tools Box",
+            "icon": "https://logo.clearbit.com/seo.box",
+            "url": "https://seo.box/"
           }
         ]
       },
@@ -1842,6 +2094,27 @@
             "title": "跨境电商",
             "icon": "https://logo.clearbit.com/www.waimaob2c.com",
             "url": "https://www.waimaob2c.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1731310299298,
+            "title": "Start Selling on Fiverr",
+            "icon": "https://logo.clearbit.com/www.fiverr.com",
+            "url": "https://www.fiverr.com/start_selling"
+          },
+          {
+            "type": "link",
+            "addDate": 1731313261722,
+            "title": "Best Marketplace to Buy and Sell SaaS Startups | Acquire.com",
+            "icon": "https://logo.clearbit.com/acquire.com",
+            "url": "https://acquire.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1731331711338,
+            "title": "Mkdirs",
+            "icon": "https://logo.clearbit.com/mkdirs.com",
+            "url": "https://mkdirs.com/"
           }
         ]
       }
@@ -2759,6 +3032,13 @@
             "title": "创造狮 创意工作者导航",
             "icon": "https://logo.clearbit.com/chuangzaoshi.com",
             "url": "https://chuangzaoshi.com/index"
+          },
+          {
+            "type": "link",
+            "addDate": 1754326619264,
+            "title": "国内外最佳接码平台推荐",
+            "icon": "https://logo.clearbit.com/sites.google.com",
+            "url": "https://sites.google.com/view/pinglunwang/sms-platform"
           }
         ]
       },
@@ -2901,6 +3181,41 @@
         "title": "Shortcut Keys - Typora Support",
         "icon": "https://logo.clearbit.com/support.typora.io",
         "url": "https://support.typora.io/Shortcut-Keys/#change-shortcut-keys"
+      },
+      {
+        "type": "link",
+        "addDate": 1731500586598,
+        "title": "The Movie Database (TMDB)",
+        "icon": "https://logo.clearbit.com/www.themoviedb.org",
+        "url": "https://www.themoviedb.org/"
+      },
+      {
+        "type": "link",
+        "addDate": 1742549795214,
+        "title": "广东省人事考试局网站",
+        "icon": "https://logo.clearbit.com/rsks.gd.gov.cn",
+        "url": "https://rsks.gd.gov.cn/"
+      },
+      {
+        "type": "link",
+        "addDate": 1742952947281,
+        "title": "niubi图床-牛而逼之！",
+        "icon": "https://logo.clearbit.com/niubi.1ouo.cn",
+        "url": "https://niubi.1ouo.cn/"
+      },
+      {
+        "type": "link",
+        "addDate": 1743174022045,
+        "title": "Wolfram|Alpha：计算型智能",
+        "icon": "https://logo.clearbit.com/www.wolframalpha.com",
+        "url": "https://www.wolframalpha.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1743174509110,
+        "title": "MathGPT - AI Math Solver - Math Solver & Homework Helper",
+        "icon": "https://logo.clearbit.com/math-gpt.org",
+        "url": "https://math-gpt.org/"
       }
     ]
   },
@@ -3115,6 +3430,13 @@
             "title": "ASMR | 18 岁 丝袜的女学生骑公鸡直到喷 - Pornhub.com",
             "icon": "https://logo.clearbit.com/cn.pornhub.com",
             "url": "https://cn.pornhub.com/view_video.php?viewkey=ph626d78c865ed7"
+          },
+          {
+            "type": "link",
+            "addDate": 1739794826158,
+            "title": "[夜桜字幕组][130428][IMP]兄妹のジョウシキ[中文字幕] - H動漫/裏番/線上看 - Hanime1.me",
+            "icon": "https://logo.clearbit.com/hanime1.me",
+            "url": "https://hanime1.me/watch?v=38105"
           }
         ]
       },
